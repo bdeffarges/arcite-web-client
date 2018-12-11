@@ -1,0 +1,63 @@
+{
+    "transforms": [{
+        "organization": "com.idorsia.research.arcite.core",
+        "name": "to-uppercase",
+        "digest": "ea3ec7afc6a8a18aaad48af821d969e8671ae87b4b12f4b286683431cbad3f32",
+        "description_consumes": "text",
+        "description_produces": "uppercase-text",
+        "short_name": "to-uppercase",
+        "depends_on_name": "none",
+        "description_summary": "to-uppercase",
+        "depends_on_organization": "none"
+    }, {
+        "organization": "com.idorsia.research.arcite.core",
+        "name": "to-lowercase",
+        "digest": "d7c267b5b1a25b1fda64c0fa35069e9c267adb25610578c91c751b80c799a9e1",
+        "description_consumes": "text",
+        "description_produces": "lowercase-text",
+        "short_name": "to-lowercase",
+        "depends_on_name": "none",
+        "description_summary": "to-lowercase",
+        "depends_on_organization": "none"
+    }, {
+        "organization": "com.idorsia.research.arcite.core",
+        "name": "product1",
+        "digest": "b4312961b25adef3c1980317cb9ce0b7fce5d00f42ba227db7c2479791659d60",
+        "description_consumes": "number",
+        "description_produces": "number",
+        "short_name": "product1",
+        "depends_on_name": "none",
+        "description_summary": "product1",
+        "depends_on_organization": "none"
+    }, {
+        "organization": "com.idorsia.research.arcite.microarray.agilent",
+        "name": "R_VSN_Normalization",
+        "digest": "d4cecc3525bf9ccbc8172036b8ca5a6d5cff7293b26808d6417a2fe256e513ed",
+        "description_consumes": "takes array files containing row col gMeanSignal rMeanSignal gBGMedianSignal rBGMedianSignal gIsFound rIsFound",
+        "description_produces": "produces one normalized matrix.",
+        "short_name": "R-VSN-Normalization",
+        "depends_on_name": "raw-data-files-to-matrix",
+        "description_summary": "VSN Normalization for an agilent microarray data set",
+        "depends_on_organization": "com.idorsia.research.arcite.microarray.agilent"
+    }, {
+        "organization": "com.idorsia.research.arcite.microarray.agilent",
+        "name": "raw-data-files-to-matrix",
+        "digest": "2b9da31bcc56fd766d6bb2360087382154992aaf510275e2a95115cf5a705260",
+        "description_consumes": "takes arrays file as produced by the agilent scanner,\nan 'array_design' property pointing to a design file should be provided as well as the file itself.\nIt will look in the meta folder for it if the property is not defined.\nUsually this file is provided by agilent and is called something like\n      ",
+        "description_produces": "generates one file per array containing row col gMeanSignal rMeanSignal gBGMedianSignal rBGMedianSignal gIsFound rIsFound",
+        "short_name": "raw-to-one-matrix",
+        "depends_on_name": "none",
+        "description_summary": "Transforms raw data files to one arrays matrix ready for VSN normalization",
+        "depends_on_organization": "none"
+    }, {
+        "organization": "com.idorsia.research.arcite.core",
+        "name": "duplicate-text",
+        "digest": "2427d1483539ebb413c347d6293aa3e599533a9507cc8cb8fa6a8e83774b3743",
+        "description_consumes": "upper-cased-text",
+        "description_produces": "duplicated",
+        "short_name": "dupText",
+        "depends_on_name": "to-uppercase",
+        "description_summary": "duplicate-text",
+        "depends_on_organization": "com.idorsia.research.arcite.core"
+    }]
+}

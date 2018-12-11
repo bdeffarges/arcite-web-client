@@ -1,0 +1,19 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "react"
+  ],
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "globals": { "__ENV__": true },
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/require-extension": [0],
+    "react/forbid-prop-types": [2, { "forbid": ["any", "array"]}],
+    "no-underscore-dangle": [2, { "allow": ["__REDUX_DEVTOOLS_EXTENSION_COMPOSE__"] }]
+  }
+}

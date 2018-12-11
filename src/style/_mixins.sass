@@ -1,0 +1,11 @@
+=e($element)
+  &__#{$element}
+    @content
+
+=m($modifier, $value: "")
+  @if $value!= ""
+    &--#{$modifier}--#{$value}
+      @content
+  @else
+    &--#{$modifier}
+      @content

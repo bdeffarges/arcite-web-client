@@ -1,0 +1,3298 @@
+{
+    "uid": "3ccb05e94eee4afe5f611f68f728b5cd145dfe7f721ec1594306e716f2238017",
+    "name": "AMS0069",
+    "design": {
+        "description": "Lung Bleo Mice Time Course Slerotic model",
+        "samples": [{
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117654",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "117674",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117700",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117658",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "117651",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117673",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117625",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117692",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R8",
+                "description": "Replicate 8",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117672",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117618",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "117704",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "117645",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117683",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R7",
+                "description": "Replicate 7",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117653",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117697",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117695",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "117648",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117652",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R7",
+                "description": "Replicate 7",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117693",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117650",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "117702",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117690",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "117657",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "117620",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "117621",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117684",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "117698",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R8",
+                "description": "Replicate 8",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "Self4",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "Self2",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R7",
+                "description": "Replicate 7",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117659",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "R7",
+                "description": "Replicate 7",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117642",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "117687",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117668",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117681",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R7",
+                "description": "Replicate 7",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117705",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117633",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "117665",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "117676",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117679",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117696",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117688",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "117675",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "117694",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117669",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117671",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "117629",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117661",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117630",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "117655",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117647",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117632",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "117686",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "R8",
+                "description": "Replicate 8",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "117646",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "117699",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117706",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117649",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "117680",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Self3",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "117703",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117635",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117638",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117666",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117678",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R8",
+                "description": "Replicate 8",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "117670",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "R2",
+                "description": "Replicate 2",
+                "category": "Replicate"
+            }, {
+                "name": "117640",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R7",
+                "description": "Replicate 7",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "117689",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117663",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117623",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "117677",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "117639",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "117637",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "252800520940",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117685",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520929",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "Self1",
+                "description": "sample",
+                "category": "sample"
+            }]
+        }, {
+            "conditions": [{
+                "name": "117631",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520996",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "117619",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "252800520997",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117662",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "5",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "117701",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "117622",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R4",
+                "description": "Replicate 4",
+                "category": "Replicate"
+            }, {
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "117626",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "7",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "252800520933",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R3",
+                "description": "Replicate 3",
+                "category": "Replicate"
+            }, {
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "117691",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520935",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "117656",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "4",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "117664",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "R1",
+                "description": "Replicate 1",
+                "category": "Replicate"
+            }, {
+                "name": "117624",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "3",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }, {
+                "name": "252800520927",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "252800520934",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "R8",
+                "description": "Replicate 8",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "117707",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "4 weeks",
+                "description": "4 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "1",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "117636",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "BiWeekly",
+                "description": "BiWeekly",
+                "category": "Condition"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1 week",
+                "description": "1 week",
+                "category": "Time_Point"
+            }, {
+                "name": "117634",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "R5",
+                "description": "Replicate 5",
+                "category": "Replicate"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "252800520941",
+                "description": "barcode",
+                "category": "barcode"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "6",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }]
+        }, {
+            "conditions": [{
+                "name": "1",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "2 weeks",
+                "description": "2 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "R8",
+                "description": "Replicate 8",
+                "category": "Replicate"
+            }, {
+                "name": "117660",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "BLEOMYCIN",
+                "description": "BLEOMYCIN",
+                "category": "Treatment"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "8",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "252800520928",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }, {
+            "conditions": [{
+                "name": "R6",
+                "description": "Replicate 6",
+                "category": "Replicate"
+            }, {
+                "name": "3 weeks",
+                "description": "3 weeks",
+                "category": "Time_Point"
+            }, {
+                "name": "Single",
+                "description": "Single",
+                "category": "Condition"
+            }, {
+                "name": "117682",
+                "description": "sample",
+                "category": "sample"
+            }, {
+                "name": "2",
+                "description": "wash",
+                "category": "wash"
+            }, {
+                "name": "Vehicle",
+                "description": "Vehicle",
+                "category": "Treatment"
+            }, {
+                "name": "1",
+                "description": "hybrid_batch",
+                "category": "hybrid_batch"
+            }, {
+                "name": "2",
+                "description": "arrayID",
+                "category": "arrayID"
+            }, {
+                "name": "252800520942",
+                "description": "barcode",
+                "category": "barcode"
+            }]
+        }]
+    },
+    "state": "IMMUTABLE",
+    "description": "LUNG Bleo Mice Time course in Slerotic model\n_ Administration: Single or Biweekly\n_ Treatment: Bleo or Vehicle\n_ Time Point: 1W, 2W, 3W, 4W",
+    "properties": {
+      "Prop 1": "Value 1",
+      "Prop 2": "Value 2"
+    },
+    "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+    }
+}

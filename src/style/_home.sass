@@ -1,0 +1,68 @@
+.hero
+  height: 70vh
+  width: 100%
+  // background: url('../images/hero@2x.png') center center no-repeat
+  background-size: cover
+  background-color: $white
+  color: $text-base-color
+  text-align: center
+  +e(header)
+    font-family: Roboto
+    font-weight: 100
+    font-size: 6rem
+    line-height: 7.2rem
+    letter-spacing: 1.5rem
+    text-transform: uppercase
+    padding-top: 25vh
+    width: 40rem
+    margin: 0 auto 1.2rem auto
+    border-bottom: 1px solid rgba(0,0,0,0.2)
+  +e(tag-line)
+    font-family: Roboto
+    font-weight: 100
+    font-size: 1.5rem
+    line-height: 1.8rem
+    margin-bottom: 1.8rem
+
+.hero-cta
+  +e(button)
+    display: inline-block
+    width: 10rem
+    font-family: Roboto
+    font-weight: 200
+    border: 1.5px solid rgba(0,0,0,0.8)
+    border-radius: .1875rem
+    font-size: 1.25rem
+    background-color: none
+    color: $text-base-color
+    padding: .375rem 0
+    margin-right: 1rem
+    &:hover
+      // font-family: Roboto
+      font-weight: 300
+      cursor: pointer
+      color: $text-base-color
+      background-color: $grey200
+      border-color: $grey200
+    +m(primary)
+      color: white
+      border: 1.5px solid rgba(0,0,0,0.25)
+      background-color: $primary-color
+      &:hover
+        color: white
+        background-color: $primary-color-light
+    +m(last)
+      margin-right: 0
+
+.about
+  background-color: $primary-color
+  color: white
+  padding: 3.75rem 0
+  +e(content)
+    @extend .container
+  +e(header)
+    @extend .heading-2
+    text-align: center
+  +e(body)
+    @extend .heading
+    font-size: 1.5rem

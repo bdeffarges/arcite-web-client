@@ -1,0 +1,841 @@
+{
+  "experiments": [
+    {
+      "name": "AMS0094",
+      "description": "adTGFB driven rat lung Fibrosis\n1. AdDL_28 days (x5)\n2. AdTGF1_14 days (x8)\n3. AdTGF1_21 days (x6)\n4. AdTGF1_28 days (x5)\n5. AdTGF1_28 days +  Macitentan (x5)\n6. AdTGF1_28 days + Pirfenidone (x4) \n7. AdTGF1_28 days + Macitentan + Pirfenidone (x6)",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "95a8e63ace0d69b1aa55236d08149ffcb47caeb42f16fb51bfcac29a51404ff2"
+    },
+    {
+      "name": "AMS0092",
+      "description": "miRNA LUNG Hypoxia SUGEN Rat model with MACi ,\n_Treatment: Normoxic, Hypoxic.SUGEN, Hypoxic.SUGEN+MACi, \n_Rat: x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "bc0de6a92a5302993b35c6628514f61bab356947ee4e897920bf7ad0f489ee16"
+    },
+    {
+      "name": "AMS0058_140822",
+      "description": "miRNA_Hypoixa SUGEN Rat Model\n_Treatment: Normoxia, Hypoxia, Hypox+MACi, Hypox+SLX, Hypox+MACi+SLX\n_Replicates: x 8 rats\n_Organ: Heart",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "82d98fb2403a7f6bf0b3936935ee5d63d0a7d77e2042496380db49f4a73d1040"
+    },
+    {
+      "name": "AMS0085",
+      "description": "GPR87 Human Epidermoid Carcinoma\n_ Treatment x3: VEH, ACT-145977, ACT-359990\n_ Condition: NoTF, siRNA_Neg, siRNA_GPR87\n_ Replicates: x4",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "3ccb05e94eee4afe5f611f68f728b5cd145dfe7f721ec1594306e716f2238017"
+    },
+    {
+      "name": "AMS0076",
+      "description": "Pulmonary Artery in Hypoxia SUGEN Characterization rat model\nNORMOXIC: x6\nHYPOXIC:x7\nHYPOXIC SUGEN: x5",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "324fc17b3f35c9f0bc48d6bf017bfba25499511abb3147f5c459bd74be48b840"
+    },
+    {
+      "name": "AMS0052",
+      "description": "CRTH2 Human Eosinophils\n- Vehicle\n- dkPGD2\n- Antag ACT517\n- dk + ACT517\n2 replicates",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "975b68e1d22f03dda3d60a47135d22be444c19a17983d119c9c2f39c6dbca888"
+    },
+    {
+      "name": "AMS0067",
+      "description": "C5A Human Whole Blood I\n_ Donors: x6 \n_ Treatment: x4 VEH, 0.2 nM, 2 nM, 400 nM\n_ TimePoint: x5T0, 30 min, 1h, 2h, 4h, 6h",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "70a5d656c8ea273d06f1d6030d474205650a264e1dc0443b9852bd0865365a07"
+    },
+    {
+      "name": "AMS0023",
+      "description": "Monocytes and Macrophages Human expression with ACT-389949\nDetermine a dose dependent (disease relevant) PD marker for the action of ACT-389949\n6 cell types: MonoC (AMS0024), M0, M1, M2a, M2b, M2c\n1 compound: ACT-389949\n4 conditions: CTRL, 2 n^M, 20 nM, 200 nM\n8 donors",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "8e7ed0d7f0a6e5a538594f22a176d7442f0be7cb6c8d4564b93dd2546c940583"
+    },
+    {
+      "name": "AMS0053",
+      "description": "GBM Human 3D culture \n_Treatment: VEH, TMZ, MACI, TMZ+MACi\n_Condition: Hypoxia, Normoxia\n_TimePoints: 3h, 24h, 3 days\n_Replicates: 4",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "498d52a59c97570c7772dd830b44065cd4ec106adcf3940232b5704a37ed1c1e"
+    },
+    {
+      "name": "AMS0069",
+      "description": "LUNG Bleo Mice Time course in Slerotic model\n_ Administration: Single or Biweekly\n_ Treatment: Bleo or Vehicle\n_ Time Point: 1W, 2W, 3W, 4W",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "d3d3bbf23e3bd1a36b512c5e0229961786c2367286fb5a4a89cf9986503ee53e"
+    },
+    {
+      "name": "AMS0073 CXCR3 Human NK cells (4 donors)",
+      "description": "6 conditions:\n-Vehicle 3h\n-Vehicle 6h\n-10nM IP-10 3h\n-10nM IP-10 6h\n-100nM IP-10 3h\n-100nM IP-10 6h\n4 replicates = 24 arrays",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "d1e65cad7954bc7aa28ea2da1e175dc76e46e67ce291cddcf82289aa227a7295"
+    },
+    {
+      "name": "AMS0024",
+      "description": "Monocytes Human expression with ACT-389949\nDetermine a dose dependent (disease relevant) PD marker for the action of ACT-389949\n1 cell types: MonoC\n1 compound: ACT-389949\n2 conditions: CTRL,  200 nM\n6 donors",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "f310de7c148b2c922ca9ef4d5a5e41c01943ba0eeb403bf962c4136e28f6496f"
+    },
+    {
+      "name": "AMS0088",
+      "description": "CXCR3 antagonist ACT-672125 in the IBD mice model\nTreatment\n_ NAIVE \t\t\tx5\n_ DISEASE MODEL (VEHICLE)\t\tx10\t \t\t\t\n_ DISEASE MODEL + anti-IL12 antibody \tx10\n_ DISEASE MODEL + ACT-672125 100 mg/kg \tx10\nTissues: \n_ Distal colon\n_ Proximal colon",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "52aec2de59a0c5dcc09920d8db71e5647cbdfcb3bc3a75a26f921df3f96b5d2e"
+    },
+    {
+      "name": "AMS0018",
+      "description": "Monocytes and Macrophages Human expression with ACT-389949\nDetermine a time treatment (disease relevant) PD marker for the action of ACT-389949\n6 cell types: MonoC, M0m M1, M2a, M2b, M2c\n1 compound: ACT-389949 (200 nM)\n4 conditions: CTRL, 2 hrs, 4hrs, 8 hrs",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "89389eba32290e286195bce7724b7b3c68474a21a741336599203ebeef330d62"
+    },
+    {
+      "name": "AMS0057",
+      "description": "Hypoxia SUGEN Rat model with MACi , SLX and their combination\n_Treatment: Normoxic, Hypoxic.SUGEN, Hypoxic.SUGEN+MACi, Hypoxic.SUGEN+SLX, Hypoxic.SUGEN+MACi+SLX\n_Rat: x8\n_Organ: Lung & Heart",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "d2766705637074da88806620e2115e8adf4e14813fc0d0795d1f1b49b898c1e7"
+    },
+    {
+      "name": "AMS0022",
+      "description": "Define gene expression signature which can differentiate human tumor cells which are sensitive or resistant\n to mTOR pathway inhibitors.\nConditions:\n2 sensitive cells lines: MDA-MB-468, adherent and MOLT-4, suspension\n2 resistant cell lines: HCT-15, adherent and K562, suspension\nCells were treated for 6h either with 0.1% DMSO, 10uM ACT-361649A or 10uM ACT-462736A.\n3 biological replicates(on different days)",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "2f87e4878844f0386a12641417e1adb53c2188b786782a54b3dfdba270405a3e"
+    },
+    {
+      "name": "AMS0054",
+      "description": "FPR2 Dog \n_Brain Region: Proreus Gyrus, Dorsal Striatum, Piriform lobe, Hippocampus, Right Olfactory bulb, Left Olfactory Bulb\n_ Treatment:\n* Placebo Senior: Malina, Sam, White\n* ACT949 Senior: Angela, Cindy, Lion, Strong\n* CTRL Junior: Junior 1.2.3.4",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "b664809c2521cddf98e6caceccdffa82fecb4869e5ca66d96f7af53ba18ee3a8"
+    },
+    {
+      "name": "AMS0084",
+      "description": "C5A_Chemocentrix Human Whole Blood:\n _Treatment: x20: T0, T2h, C5a_Veh, Chemoc_Veh, Combi_Veh, C5a_2, C5a,20, C5a200, X_5, Chemo_50, Chemo_500\nX5_C5a_2, X5_C5a_20, X5_C5a_200, X50_C5a_2, X50_C5a_20, X50_C5a_200, X500_C5a_2, X500_C5a_20, X500_C5a_200\n_Replicates: x6",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "f2531045009fe508dcd0c66afed5282c9a828c9b6adf4bda8a3b972ca9810582"
+    },
+    {
+      "name": "AMS0032",
+      "description": "TGF-B, S1P and S1P receptor agonists in lung fibroblasts",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "50cbcac38ab734354c88d893e7952dd213af8393c299ae1ef8b01c7201b5a6b8"
+    },
+    {
+      "name": "AMS0014_2",
+      "description": "FIBROSIS: prophylactic effect of MAC and BOS in Bleomycin-induced pulmonary fibrosis in SD rat\nConditions (x4): CTRL, BLEO, MAC, BOS\nDoses: MAC_0.1, MAC_1, MAC_10, MAC_100, BOS_300\nBiological Replicates: x10\nTime Point: 20 days",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "b33b369d48caa3d791cc7136e65c679db7c7419fc0fcda16542fcb4c96782ad5"
+    },
+    {
+      "name": "AMS0065",
+      "description": "_Treatment: x12     VEH,  MACI, TMZ, MACi+TMZ, metabolite ACT577, Cm, BQ123, BQ788, BQ1+7, CB1, CB7, CB17\n_Replicate: x4\n_TimePoint: x2     3 days, 5 days",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "a0884ff6f95bf43285ae312465cdf7f168a35d2b5f76b5b532c8455f51c9749c"
+    },
+    {
+      "name": "hello mars",
+      "description": "Mars is great",
+      "owner": {
+        "organization": "com.idorsia.research",
+        "person": "B. Deffarges"
+      },
+      "uid": "699375973a81f6826820ebca1af1544f32fc987aa956a333f297ed554e128241"
+    },
+    {
+      "name": "default-experiment",
+      "description": "an experiment to experiment with the system or to do anything that does not require the definition of an experiment",
+      "owner": {
+        "organization": "system",
+        "person": "arcite"
+      },
+      "uid": "f5caf1f1f1dbfd584424dd886488767df0f42349ebd00944a212f98bb50728f0"
+    },
+    {
+      "name": "AMS0031",
+      "description": "Human Neurons Characterization",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "f83d1040957b956df2a3b6dba7864b13dfc1d4680da07b98d62190e709b502b2"
+    },
+    {
+      "name": "AMS0096",
+      "description": "EP2/EP4 Oncodesign Mice Tumor \nGrp1: EMT1_VEH_D7\nGrp2: EMT2_ACT_D7\nGrp3: EMT3_VEH_D10\nGrp4: EMT4_ACT_D10\nGrp5: EMT5_VEH_D15\nGrp6: EMT6_ACT_D15\nx 10 mices per group",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "d2a6fa90295e634db1753e30b74cf733c069cc0fcc1ba4d88e6e9f2f0057bae4"
+    },
+    {
+      "name": "AMS0070",
+      "description": "Mice Heart_RV_ERK Thr188 Phosphorylation\n_Basal ERK T188T x8\n_Basal ERK T188D x8\n_Basal ERK T188A x8\n_TAC ERK T188T x8\n_TAC ERK T188D x8\n_Basal ERK T188A x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "0b0ffdc243cf09503fcf230f370c1b543448733170e635e6f08a57c73687d5f8"
+    },
+    {
+      "name": "AMS0055 GBM Human 3D culture ET inhibitors",
+      "description": "_Treatment: VEH_1,  MACI_1, TMZ_1, MACi+TMZ_1, TMZ_2, MACi+TMZ_2, BQ788_2, TMZ+BQ788_2, BQ123_2, TMZ+BQ123_2\n_Replicate: x4\n_TimePoint: 3 days",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "fa6ed98b37a9b77c2429fa5d7af9839e5b73ca1e650941bb71bc4c208c66b3b9"
+    },
+    {
+      "name": "AMS0017",
+      "description": "Monocytes and Macrophages Human expression with ACT-389949\nDetermine a dose dependent (disease relevant) PD marker for the action of ACT-389949\n6 cell types: MonoC, M0, M1, M2a, M2b, M2c\n1 compound: ACT-389949\n4 conditions: CTRL, 2 n^M, 20 nM, 200 nM",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "5a6189fe1bf5813d7da0cfa578133f00e18ce807478240a80d1707e99453e540"
+    },
+    {
+      "name": "AMS0005_3",
+      "description": "Kidney Rat for different hypertensive rat models",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "06d2406a92599b9f3bada978976c075f1faf188f9db443a412aad0ad4d39895a"
+    },
+    {
+      "name": "AMS0066",
+      "description": "CRTH2 Human Eosinophils (repetition of hybridization of AMS0062)\n- Vehicle\n- dkPGD2\n- Antag ACT517\n- dk + ACT517\n8 replicates",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "28a04723ce320ca5c7f275f770ec32c23385146ea5e4371889bfa6154fd6eef8"
+    },
+    {
+      "name": "AMS0021",
+      "description": "(Rat miRNA) Evaluation of Agilent miRNA array platform using Bleomycin Time course samples\nConditions: CTRL & BLEO\nTime Points: 1W, 2W,4W\nReplicates: 4",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "a7d9442ababd728d41d830b6e019c3b3d97aa8a3b1b948cd1b9a60ac7a642243"
+    },
+    {
+      "name": "AMS0071",
+      "description": "CaT WAG Rat Brain Tissues samples:\n_ Strain: WAG & WISTAR\n_ Tissues: Brain, Cortex, Hyppocampus, Thalamus\n_ Treatment: ACT-478 & VEH\n_ Replicates x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "736598d5646aa738d06b9817971cb4d4a2befa9f4f3fe7494db0797661984c8c"
+    },
+    {
+      "name": "AMS0075",
+      "description": "GBM Fatty Acids\n_ Treatment: Vehicle, TMZ, MACi, Combi (MACi+TMZ) CM, Metabolite, Combi (metabolite + TMAZ) Cm, EPA, EPA+TMZ, Triacsin, Triascin+TMZ, Triascin+CM, Triascin+Cm\n_ Replicates: x 4 (pooled of 5 wells)\n_ TimePoints: 3 days, 5 days",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "a4227ce6a174cc6ce7355fd4bf569fbd4aff558678bfe914ad4ba92d96a4783a"
+    },
+    {
+      "name": "AMS0074",
+      "description": "Guillain Barre Rat model with Sciatic Nerve\nTreatment. VEHICLE 1, ACT-602, VEHICLE 2, ACT-125, IVIG, NAIVE\nReplicates: x 10 rats per group",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "8348473e96fd8c7f5bd07f1ad96d6f8b611054942db6086912e7d160a2a82f23"
+    },
+    {
+      "name": "AMS0097",
+      "description": "EP2/EP4 Oncodesign Mice Whole Blood \nGrp1: EMT1_VEH_D0 & EMT1_VEH_D7\nGrp2: EMT2_ACT_D0 & EMT2_ACT_D7\nGrp3: EMT3_VEH_D0 & EMT3_VEH_D10\nGrp4: EMT4_ACT_D0 & EMT4_ACT_D10\nGrp5: EMT5_VEH_D0 & EMT5_VEH_D7 & EMT5_VEH_D15\nGrp6: EMT6_ACT_D0 & EMT6_ACT_D7 & EMT6_ACT_D15\nx 10 mices per group\nGrp7: NAIVE_VEH_D0 & NAIVE_VEH_D7 & NAIVE_VEH_D15\nGrp8: NAIVE_ACT_D0 & NAIVE_ACT_D7 & NAIVE_ACT_D15\nx 5 mices per group",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "046f779ca4f91d7f0b0d4e7abfc2924f06956a7aeae70dde7745f81fc891696d"
+    },
+    {
+      "name": "AMS0080",
+      "description": "ALS_SOD1 transgenic rats_Spinal Cord:\n_ Disease stage: x 3 Pre-symptomatic, Early stage, Mid stage\n_ Condition: x 2 WT & TG\n_ Replicates: x 7 rat per group (6 for WT)\n_ Sex: x2 Male & female\n_ Treatment: x2 treated & non treated",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "2a9ed2b2dcc642fcff1060b6b55e23b539afd7a6d09999b1d4a3a8a3bcd2c3d1"
+    },
+    {
+      "name": "AMS0087",
+      "description": "SLE004-5_Mice_MRL/lpr_Eye_Salivary_gland_Lacrimal_gland\n\n1 Timepoint: wk20\n2 Treatments: \n- Vehicle (x9)\n- ACT-672125 (x14)\n= 69 samples",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "c428f527acf47c11c14caeb8ef8c24b544bc3634104f171d4ede7284f36f882b"
+    },
+    {
+      "name": "AMS0058",
+      "description": "miRNA_Hypoixa SUGEN Rat Model\n_Treatment: Normoxia, Hypoxia, Hypox+MACi, Hypox+SLX, Hypox+MACi+SLX\n_Replicates: x 8 rats\n_Organ: Heart",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "a79ee7692c63284b8d709087b84049f1df2ec83e9b1859b87b0a2a6718ce2026"
+    },
+    {
+      "name": "AMS0027",
+      "description": "(mRNA Rat Fibrosis MAC & BOS) Bleomycine model treated with MAC & BOS (therapeutic)\nTreatment: BLEO, MAC_LD_10, MAC_MD_30, MAC_HD_100, BOS_300\nReplicates: 6 per group\nTime Point: 14 days",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "67581a9601910f56c5848be169aca5f26652221d03fa7815f331ec4bb58d4a56"
+    },
+    {
+      "name": "AMS0061",
+      "description": "GBM BIOTRIAL (Human GBM cell lines)\n_Treatment: VEH, MACi, TMZ, Combi (TMZ + MACi)\n_ Cell lines: x 12",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "1d3134ac2ea8d1c265967bfee8e60b43a5a1eee03ffdb30db4105d35375e91e7"
+    },
+    {
+      "name": "AMS0056",
+      "description": "CXCR3 Dry Eyes Model in Mice\n_ Treatment: x7. \nNaive Mice = NaÃ¯ve\nDisease model = DES\nProphylactic dose 1 = P1\nProphylactic dose 2 = P2\nProphylactic dose 3 = P3\nProphylactic dose 4 = P4\nTherapeutic dose 4 = T4",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "e2d8b9e1523cb06ccb47b45d6820834a40e7018f3af6c2135e947755730422d5"
+    },
+    {
+      "name": "AMS0062",
+      "description": "CRTH2 Human Eosinophils (repetition)\n- Vehicle\n- dkPGD2\n- Antag ACT517\n- dk + ACT517\n8 replicates",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "c462a773bdfbc28089889e41837ad7d13f44b611847a0b05cad160fd551d3b89"
+    },
+    {
+      "name": "AMS0083",
+      "description": "Oncology Melanoma \n_ Cell types: A2058_WT, A2058_KO, UACC57\n_ Treatment A2058 WT & A2058KO: DMSO, EDN1 10 nM, Dabrafenib 100 nM, Dabrafenib +EDN1\n_ Treatment UACCC57: BSA, EDN1 10 nM\n_ TimePoints: 4h, 24h, 72h\n_Replicates: x 4",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "f649d4fa0f10869a593465df185300e2b29b95f00a9b6a44ff67f5ee6b87df92"
+    },
+    {
+      "name": "AMS0004_1",
+      "description": "Rat Kidney in dTGR_I study\n_ Treatment : dTGR, hAGT, hREN, CTRL.SD\n_ Replicates: x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "080a112b5590f6726c077f2565f655beaa1a3a8e5a019c3fc522bb5d7a14c194"
+    },
+    {
+      "name": "AMS0038",
+      "description": "GBM2: intrcranial glioblastoma tumors\nTreatment: Vehicle, MAC_3, MAC_10\nReplicates: x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "402c821d2e9f15890def5486160c5dc7914653d637a537444c7690e62c6e0856"
+    },
+    {
+      "name": "AMS0033bis_QC",
+      "description": "QC Test after scanner upgrade",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "848f0e3d9ccddc54f2ef13691b4b5fe1de087754b48c3e1f3bb10edcfa397033"
+    },
+    {
+      "name": "AMS0077",
+      "description": "Hypoxia SUGEN Rat model with MACi , SLX and their combination\n_Treatment: Normoxic, Hypoxic.SUGEN, Hypoxic.SUGEN+MACi, Hypoxic.SUGEN+SLX, Hypoxic.SUGEN+MACi+SLX\n_Rat: x8\n_Organ: Pumonary Artery",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "06d9b73f8b9e18b716742a1e0a6658dcb9539de3cb038beb9bbdbf5c450f7043"
+    },
+    {
+      "name": "AMS0095",
+      "description": "CXCR7 EAE Mice Brain Model \n1. Naive (x8)\n2. EAE disease model (x8)\n3. EAE+Therapeutic  ACT-1239 (x7)\n4. EAE+Preventive ACT-1239 (x8)\n5. EAE+Preventive  ACT-169 (x9)",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "5ad4cbb8bed1019b8f724528e33c488393d0ffbf2d0aef6f19c05d8bcca6d07a"
+    },
+    {
+      "name": "AMS0005_2",
+      "description": "Heart Rat Gene Expression for different hypertensive rat models",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "d07500238e31041c9a66a276339a4569501abae550245deb3a3091c7874b79e0"
+    },
+    {
+      "name": "AMS0006_2",
+      "description": "Rat kidney dTGR male & female versus SD ctrl",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "68ed3e0b334d340c285ed08ce217623f6d66573c4ef4399223c2cbf51650140d"
+    },
+    {
+      "name": "AMS0043",
+      "description": "Characterization of Human Eosinophils transcriptomic profile\n_ Cell type: HL60, EosLike, Eosinophils\n_ Treatment: Vehicle, dkPGD2, IL5\n_ Replicates: x6",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "98e3deaed4ceada8e398c5d6ff3537cee3d872b5f5555a3449a4fc5e367ce0be"
+    },
+    {
+      "name": "AMS0079",
+      "description": "ALS_SOD1 transgenic rats_Muscle:\n_ Disease stage: x 3 Pre-symptomatic, Early stage, Mid stage\n_ Condition: x 2 WT & TG\n_ Replicates: x 7 rat per group (6 for WT)\n_ Sex: x2 Male & female\n_ Treatment: x2 treated & non treated",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "403328cbce3fc52772b8cdb7820136f6faa87a40191fb2a0e7b8a6034066c821"
+    },
+    {
+      "name": "AMS0048",
+      "description": "NHLF Human Lung Fibroblasts:\n_ Treatment: Vehicle, TGFB, TGFB+ICG, TGFB+PIRF.1, TGFB+PIRF.2, TGFB+PIRF.3, TGFB+PIRF.1+ICG, TGFB+PIRF.2+ICG, TGFB+PIRF.3+ICG, ICG, PIRF.1, PIRF.2, PIRF.3, PIRF.1+ICG,  PIRF.2+ICG,  PIRF.3+ICG\n_ Replicates: x 3",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "a1d19899f25766861f41b9755edbe20df6dff4910f6088a7d365b012a5cb5e18"
+    },
+    {
+      "name": "AMS0050",
+      "description": "CRTH2 Human Eosophagus Distal\n_ CTRL x12\n_ ACTIVE x10\n_ ACTIVE_CS x8\n_ REMISSION_CS x14\n_ REMISSION_CS_PPI x5\n_ GERD x 8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "d1d3caeeb0eefa7c5b7ceb40c0218ee912ab483a0c9e0a79881313d29d646e51"
+    },
+    {
+      "name": "AMS0049",
+      "description": "CXCR3 BLEO Lung Mice\n_ IVV03.13: Vehicle, BLEO, ACT-602825 x8\n_IVV.26.13: Vehicle, BLEO, ACT-660602 x10",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "b2e14ea40c429e3bf452b6917892b3c5535d30c9902318faa2c5fcf6458fe870"
+    },
+    {
+      "name": "AMS0090",
+      "description": "EAE Rat Model with Ponesimod\n_ Naive (x7)\n_EAE disease model (x8)\n_DMF (x8)\n_PONESIMOD 10 mg/kg (x7)\n_PONESIMOD 100 mg/kg (x8)\n_Preventive_DMF+PONE 10 mg/kg (x8)\n_Preventive_DMF+PONE 100 mg/kg (x8)\n_VEH+PONE 100 mg/kg (x7)\n_Therapeutic_DMF+PONE 100 mg/kg (x7)",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "e1fb05995c152be6efd5b71319e6fc594b28f358c4c75c2afe638c77523e7734"
+    },
+    {
+      "name": "AMS0028",
+      "description": "(miRNA Rat Fibrosis MAC & BOS)  Bleomycine model treated with MAC & BOS (therapeutic)\nTreatment: BLEO, MAC_LD_10, MAC_MD_30, MAC_HD_100, BOS_300\nReplicates: 6 per group\nTime Point: 14 days",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "c4f028791d389deb7c20b0a4a3de67c77ef571f07b200a92f1fdaa675f04bb92"
+    },
+    {
+      "name": "AMS0044",
+      "description": "JSW study Mice Hippocampi\n_ Treatment: (x4) nTg.Vehicle, nTg.ACT-389949, Tg.Vehicle, Tg.ACT-389949\n_ Replicates: x10",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "df5c439e3a3faaace71198cb40389e5c9ce7707cec31ad6ef54f044a6bb7b25d"
+    },
+    {
+      "name": "AMS0086",
+      "description": "hC5AR in rat\n_ Condition Transgenic: WT & KI\n_ Gender: Female & Male \n_ Treatment: x5\n     - PreSymptomatic_2H_VEH\n      - PreSymptomatic_2H_C5A\n       -Symptomatic_2H_T0\n        -Symptomatic_2H_VEH\n         - Symptomatic_2H_C5A\n_ Replicates: x 4 to x 6 according to groups (death of rats)",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "37a0fed21ab617cccfc5d5f8844dbf0d50aa7478d7e21089d11cf55b10636985"
+    },
+    {
+      "name": "AMS0012_1",
+      "description": "Rat Lung in Monocrotaline model\n_ Treatment: MCT, MCT+BOS, CTRL\n_ Replicates: MCT x12, MCT+BOS x8, CTRL x6",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "7f3dc2580b82af1dfa5f2999764aebadbdf0916546c8224e0c6555f01b93d2bc"
+    },
+    {
+      "name": "AMS0039",
+      "description": "Rat miRNA \nConditions: VEHICLE, BLEO, Bleo+BIBF_50, Bleo+BIBF_100 & Bleo+BIBF_150\nReplicates:6",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "c2a9074dbf71c681dfa9ffadd9cf7cba5621187dccea5b2fd932eea77cbfa644"
+    },
+    {
+      "name": "AMS0072",
+      "description": "CaT WAG Rat Whole Blood samples:\n_ Strain: WAG & WISTAR\n_ Treatment: ACT-478 & VEH\n_ Replicates x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "755f1fcb4a8672e103aa88433058ca475faf5ab9f008ac263c74bcc043d76756"
+    },
+    {
+      "name": "AMS0063",
+      "description": "ALS_SOD1 transgenic rats, Muscle\n_ Disease stage: x 3 Pre-symptomatic, Early stage, Mid stage\n_ Condition: x 2 WT & TG\n_ Organ: Muscle\n_ Replicates: x 8 rat per group",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "892bd83316caedcb2e2e95ecaee4026e9aff9796b0813415d82fe7b7ce02ee5f"
+    },
+    {
+      "name": "AMS0068",
+      "description": "Bleo Mice Time course in Slerotic model\n_ Administration: Single or Biweekly\n_ Treatment: Bleo or Vehicle\n_ Time Point: 1W, 2W, 3W, 4W",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "9fa449ecea60f3030d37865d3f3873ff567c4630cd3f7e667222762b7cbb481f"
+    },
+    {
+      "name": "AMS0029",
+      "description": "Rat Kidney miRNA \nCondition: dTGR & CTRL\nGender: Male & Female\nReplicates: x 6",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "fadd20baf247af3399d375a7c61237c748c3abe2f78dfa855473ed3a21566880"
+    },
+    {
+      "name": "AMS0078 CXCR3 Human T cells (4 donors)",
+      "description": "6 conditions:\n-Vehicle 3h\n-Vehicle 6h\n-10nM IP-10 3h\n-10nM IP-10 6h\n-100nM IP-10 3h\n-100nM IP-10 6h\n4 replicates = 24 arrays",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "1929310608ca1748e2ff04c3aacd2716cc2acdb54db6fc9d28434b74675d9dca"
+    },
+    {
+      "name": "AMS0058_140814_br",
+      "description": "miRNA Hypoxia SUGEN Rat Model",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "6ce19d19ed62f7c9e5d0511da9c6eaadc70a745bf102fbf577e8e40e5aeed94b"
+    },
+    {
+      "name": "AMS0089",
+      "description": "C5a Human Whole Blood\n_ Treatment x36\n T0\t\t\tT2h\nC5a_Veh\t\t\tChemo_Veh\t\t\tCombi_Veh\nC5a_2\t\t\tC5a_20\t\t\tC5a_200\nChemo_500\t\t\tChemo_500_C5a_2\t\tChemo_500_C5a_200\nACT-707_50\t\t\tACT-833_500\t\t\tACT-833_100\nACT-833_50_C5a_2\t\tACT-833_50_C5a_20\t\tACT-833_50_C5a_200\nACT-833_500_C5a_2\t\tACT-833_500_C5a_20\t\tACT-833_500_C5a_200\nACT-833_1000_C5a_2\t\tACT-833_1000_C5a_20\t\tACT-833_1000_C5a_200\nACT-614_50\t\t\tACT-614_500\t\t\tACT-614_100\nACT-614_50_C5a_2\t\tACT-614_50_C5a_20\tACT-614_50_C5a_200\nACT-614_500_C5a_2\t\tACT-614_500_C5a_20\tACT-614_500_C5a_200\nACT-614_1000_C5a_2\t\tACT-614_1000_C5a_20\tACT-614_1000_C5a_200\n_ Replicates: x 6",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "6d9abc2730748dd9d647f3339250937645fdcdcb55dfba2db7af6600e400fd1d"
+    },
+    {
+      "name": "AMS0004_2",
+      "description": "Rat Heart in dTGR_I study\n_ Treatment : dTGR, hAGT, hREN, CTRL.SD\n_ Replicates: x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "e35b13988f28a2365120f8dc5e137f5e7889fd6803acb77a4045d7cc70eec084"
+    },
+    {
+      "name": "AMS0059_B",
+      "description": "FPR2 Human Whole Blood with ACT949, evaluate effect of the GlobinClear Treatment\n_ Treatment: Vehicle, 100 mM, 1000 mM, 10 000 mM\n_ Replicates: x8 donors\n_ GlobinClear (GC): No GC, With GC",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "3ea24ae9008308a659e5d2b9d685b467c928c4660140d8c605738add1e4566cc"
+    },
+    {
+      "name": "AMS0015",
+      "description": "Rat Lung, Time course of Bleomycin-induced pulmonary fibrosis in SD rat\nCreate a gene-expression database for pulmonary fibrosis model and to evaluate the time course\nof  Bleomycin-induced pulmonary fibrosis in SD rat. \n3 conditions: CTRL, BLEO (1.5 mg/kg), NAIVE\n7 time points: 3D, 1W, 2W, 3W, 4W, 6W, 8W\n5 replicates",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "e9fc0e776961f99c511f2559f181f4be5d0aa6882dad166f432883e548d5a75c"
+    },
+    {
+      "name": "AMS0041",
+      "description": "Eosinophils preliminary Characterization",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "ea6ac40c114f3cb361003943bd1e1100f38b15787f0f9e7aab98c94138f97a08"
+    },
+    {
+      "name": "AMS0035",
+      "description": "Whole Human Blood & GlobinClear treatment evaluation:\n_Treatement: CTRL, dk, dk+ACT-517\n_WB volume: 1ml, .25 ml\n_+/- GC\n_Replicates: Donors 1,2",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "9e431352b58b35efea9042f67f81dfd9ef72d2e33b931bb039fa165e5e097274"
+    },
+    {
+      "name": "AMS0033",
+      "description": "Validation of Kidney injury biomarkers\n8 treatments: CTRL_NaCl, CTRL_CornOil, GM_60, GM_100, CSA_25, CSA_50, VAN_50, VAN_250\n5 replicates",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "35fd690efe59989b3c57bca8c69a8046e79a65645071766e5e1ec34348114f7b"
+    },
+    {
+      "name": "AMS0046",
+      "description": "miRNA Heart in Hypoxia SUGEN\n_ Treatment: Normoxic, Hypoxic, Hypoxic Sugen\n_ Time Point: 3W, 5W, 13W\n_ Replicates: x7",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "8818ba4f17552d0b977a5cb1c7fe79760dd480f245b3ffd08e66bb72a0510f65"
+    },
+    {
+      "name": "AMS0093",
+      "description": "CRTH2 Human Basophils\n- Vehicle\n- dkPGD2\n- Antag ACT517\n- dk + ACT517\n6 replicates",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "1b56498f5f3e5da27ec4ef12c5f59c7acadd00e3d206c11410f9a7d8047ee628"
+    },
+    {
+      "name": "AMS0030",
+      "description": "Human Cardiomyocytes\nConditions: CTRL, DOXO 20 nM, DOXO 200 nM\nReplicates: x 6",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "cc6efc17ca22dd6ce6d89afd1f1218b0262b38c70f30fd5415597f2b07f8dd17"
+    },
+    {
+      "name": "AMS0082",
+      "description": "SKIN Bleo Mice + TPH1 compound ACT-708940\n_VEHICLE: x10\n_BLEO: x9\n_BLEO+ACT940_600 mg: x10\n_BLEO+ACT940_150 mg: x10\n_BLEO+TERGURIDE: x5",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "f2539f271354f242e6231790044187768a0ebbdc5fa0656af6ef9bce42e04ece"
+    },
+    {
+      "name": "AMS0045",
+      "description": "Hypoxia SUGEN\n_ Organs: Heart & Lung\n_ Treatment: Normoxic, Hypoxic, Hypoxic Sugen\n_ Time Point: 3W, 5W, 13W\n_ Replicates: x7",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "cfc2af12f9957f577fea39f9ce0863418cc7e6c4969ba8033a50d3dcf07c430e"
+    },
+    {
+      "name": "AMS0004_3",
+      "description": "Rat Lung in dTGR_I study\n_ Treatment : dTGR, hAGT, hREN, CTRL.SD\n_ Replicates: x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "251b215a8cccfd987ef0d4eb3bdd3761fd3d6f674ce43fc6699463e34b61518b"
+    },
+    {
+      "name": "AMS0091",
+      "description": "miRNA LUNG Hypoxia SUGEN\n_ Treatment: Normoxic,  Hypoxic Sugen\n_ Time Point: 3W, 5W, 13W\n_ Replicates: x7",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "c52d961092a130e32aebe968127bc59b48943548ff5063fa0f3f2dc78bb233f9"
+    },
+    {
+      "name": "AMS0064",
+      "description": "TG SUGEN Mice\n_ WT_CTR: x4\n_TG CTRL: x4\n_TG SUGEN : x5\n_TG SUGEN+MACI: x5\nHeart_RV & Lung",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "f8ab40e1cc7856b607314cd3a5e9edc2025aea4390747aa936d6fd6b11811b5f"
+    },
+    {
+      "name": "AMS0036",
+      "description": "Whole Human Blood \n_Treatement: CTRL, dk, ACT-517, dk+ACT-517\n_WB volume: 2.5 ml\n_ GC treatment\n_Replicates: Donors 12",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "a52546041169eddf57c433cbb1469a4466507e0b95388e687a2dc666c12d191d"
+    },
+    {
+      "name": "AMS0040",
+      "description": "Rat Lung Hypoxia Model, TPH1 compound\nConditions:\n_ Normoxic_2W (x5) Hypoxic_2W (x4)\n_ Normoxic_3W (x7) Hypoxic_3W (x7) Hypoxic+ACT_3W (x7)\n_ Normoxic_6W (x5) Hypoxic_6W (x4)",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "19e9980d5f3067d2aea88b72c6fdcb37f94ec65c86da6972d208d7cba3f604f7"
+    },
+    {
+      "name": "AMS0051",
+      "description": "LPA with NHDF",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "b12c7c230ea0487461f7c0d0ece20c194e03d982779bf2ef9ff0abafe1a0074e"
+    },
+    {
+      "name": "AMS0081",
+      "description": "S1P1R_cGVHD_Mice_Skin_+_Lung\nTimepoint X1: d42\nTreatment X3:\n- Vehicle (x6 for skin; x8 for lung)\n- ACT-334441 (x9 for skin and x9 for lung)\n- Syngeneic Vehicle (x5 for skin and x5 for lung)\n=42 sp",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "hoernej"
+      },
+      "uid": "ada96db2164a70bc8909d935ff6997055ebb34329e98682ced5d2aeba146907c"
+    },
+    {
+      "name": "AMS0060",
+      "description": "ALS_SOD1 transgenic rats:\n_ Disease stage: x 3 Pre-symptomatic, Early stage, Mid stage\n_ Condition: x 2 WT & TG\n_ Organ: x 2 Motor Cortex (MC) & Spinal Cord (SC)\n_ Replicates: x 8 rat per group",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "e3854e80ecd21b900d95291a4fdd4d517d6f11531c4c8061019c4eb5aea0a288"
+    },
+    {
+      "name": "AMS0006_1",
+      "description": "Rat Whole Blood dTGR male & female versus SD ctrl",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "570d000de79a38a9ec39dee87f2e050e51303b573b268c4142ddac33bdcad739"
+    },
+    {
+      "name": "AMS0047",
+      "description": "CXCR3: Human T cells\n_Treatment: Vehicle, CXCL9, CXCL10, CXCL11, CXCL12, ACT-602825, CXCL9+ACT, CXCL10+ACT, CXCL11+ACT \n_ TimePoint: T0 (1 sample) , T1h, T4h\n_ Donors: x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "b0e80f867c38a98861d51ecd724b6fa0d22937c94a5b971f85dd0778b5c81d31"
+    },
+    {
+      "name": "AMS0011_1",
+      "description": "Human cell lines HCT-15 clones_CXCR7",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "956ee8bd3e1c94685a1f451471355f6326b468539f0ed1c604153bdd8e5e5509"
+    },
+    {
+      "name": "AMS0026",
+      "description": "Evaluation of OVA mouse model using Whole Mouse genome Agilent arrays",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "a6b3d664457838a6a18b1b689ad7b19a2c08ba23f901a444f79d5fc9cf207696"
+    },
+    {
+      "name": "AMS0034",
+      "description": "Validation of Kidney injury biomarkers: new hybridizations\n8 treatments: CTRL_NaCl, CTRL_CornOil, GM_60, GM_100, CSA_25, CSA_50, VAN_50, VAN_250\n5 replicates",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "berdeff"
+      },
+      "uid": "bbc56c26c3f23bbb9862f78c14a29de4c116220911adf3ac6050009596f078b9"
+    },
+    {
+      "name": "AMS0037",
+      "description": "GBM1: subcutaneous glioblastoma tunors\nTreatment: Vehicle, MAC_3, MAC_10\nReplicates: x8",
+      "owner": {
+        "organization": "com.idorsia.research.microarray",
+        "person": "renaulb"
+      },
+      "uid": "9927f53acb0a5805cb0092d8b0f78216d41039eb4cc7f96ef1533fd053a8606f"
+    }
+  ]
+}

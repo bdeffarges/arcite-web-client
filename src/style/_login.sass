@@ -1,0 +1,44 @@
+.login
+  min-height: 70vh
+
+.login-form
+  max-width: 25rem
+  min-width: 25rem
+  margin: $container-margins
+  padding: 2rem 2rem
+  position: relative
+  +e(buttons)
+    width: 100%
+    display: flex
+    justify-content: space-around
+  +e(button)
+    display: inline-block
+    flex: 1
+    margin: 2.5rem .375rem 0 .375rem
+  +e(logo)
+    text-align: center
+    display: inline-block
+    width: 100%
+    font-size: 4rem
+    color: $primary-color
+  +e(error)
+    font-size: 12px
+    color: $secondary-color
+
+
+.login-busy
+  display: flex
+  justify-content: center
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  background: rgba(0,0,0,0.05)
+  z-index: 1000
+  +m(hidden)
+    display: none
+  +e(spinner)
+    font-size: 4rem
+    color: $secondary-color
+    align-self: center

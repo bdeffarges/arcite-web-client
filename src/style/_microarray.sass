@@ -1,0 +1,28 @@
+.slide-list
+  display: flex
+  flex-wrap: wrap
+  width: 100%
+
+.slide
+  flex: 1
+  min-width: 90%
+  max-width: 90%
+  // background: $primary-color-lighter
+  border: 2px solid $primary-color-lighter
+  border-radius: 4px
+  margin: .625rem
+  +e(barcode)
+    background: trans
+  +e(content)
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-around
+    text-align: center
+  +e(array)
+    font-size: .625em
+    padding: 5px
+    margin: 10px 5px
+    border: 3px solid $grey300
+    flex: 1
+  +e(array-text)
+    +m(strong)

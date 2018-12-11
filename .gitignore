@@ -1,0 +1,19 @@
+### Ignore these
+################
+dist
+/node_modules
+bundle.js
+npm-debug.log
+.eslintcache
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
+
+# Jest output
+coverage
+
+# Bamboo test results
+eslint.json
+jest.json
